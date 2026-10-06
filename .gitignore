@@ -1,0 +1,14 @@
+# 解密产物与口令，绝不入库
+*.plaintext
+*.plaintext.json
+*.decrypted
+vault.plaintext.json
+.passphrase
+.passphrase.txt
+plaintext/
+clones/
+*.bak-*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
